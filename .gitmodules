@@ -1,0 +1,18 @@
+[submodule "rails-pack/lib/rinari"]
+	path = lib/rinari
+	url = git://github.com/eschulte/rinari.git
+[submodule "rails-pack/lib/rhtml"]
+	path = lib/rhtml
+	url = git://github.com/eschulte/rhtml.git
+[submodule "rails-pack/lib/scss-mode"]
+	path = lib/scss-mode
+	url = git://github.com/antonj/scss-mode.git
+[submodule "rails-pack/lib/less-mode"]
+	path = lib/less-mode
+	url = git://github.com/purcell/less-css-mode.git
+[submodule "rails-pack/lib/haml-mode"]
+	path = lib/haml-mode
+	url = git://github.com/nex3/haml-mode.git
+[submodule "rails-pack/lib/coffee-mode"]
+	path = lib/coffee-mode
+	url = git://github.com/defunkt/coffee-mode.git
