@@ -1,9 +1,6 @@
 [submodule "rails-pack/lib/rinari"]
 	path = lib/rinari
 	url = git://github.com/eschulte/rinari.git
-[submodule "rails-pack/lib/rhtml"]
-	path = lib/rhtml
-	url = git://github.com/eschulte/rhtml.git
 [submodule "rails-pack/lib/scss-mode"]
 	path = lib/scss-mode
 	url = git://github.com/antonj/scss-mode.git
@@ -19,3 +16,6 @@
 [submodule "lib/ruby-end"]
 	path = lib/ruby-end
 	url = git@github.com:rejeep/ruby-end.git
+[submodule "lib/web-mode"]
+	path = lib/web-mode
+	url = git@github.com:fxbois/web-mode.git
