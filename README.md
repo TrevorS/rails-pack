@@ -1,6 +1,6 @@
 # rails-pack
 
-This live pack
+This live pack contains a few Ruby on Rails specific major and minor modes.
 
 ## Requirements
 * [Emacs 24.3](http://www.gnu.org/software/emacs)
