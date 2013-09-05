@@ -16,6 +16,3 @@
 [submodule "lib/ruby-end"]
 	path = lib/ruby-end
 	url = git@github.com:rejeep/ruby-end.git
-[submodule "lib/web-mode"]
-	path = lib/web-mode
-	url = git@github.com:fxbois/web-mode.git
