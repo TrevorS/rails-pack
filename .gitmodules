@@ -16,3 +16,6 @@
 [submodule "rails-pack/lib/coffee-mode"]
 	path = lib/coffee-mode
 	url = git://github.com/defunkt/coffee-mode.git
+[submodule "lib/ruby-end"]
+	path = lib/ruby-end
+	url = git@github.com:rejeep/ruby-end.git
