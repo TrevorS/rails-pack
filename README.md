@@ -10,7 +10,7 @@ This live pack contains a few Ruby on Rails specific major and minor modes.
 * [coffee-mode](https://github.com/defunkt/coffee-mode)
 * [haml-mode](https://github.com/nex3/haml-mode)
 * [less-mode](https://github.com/purcell/less-css-mode)
-* [rhtml](https://github.com/eschulte/rhtml)
+* [web-mode](https://github.com/fxbois/web-mode)
 * [rinari](https://github.com/eschulte/rinari)
 * [scss-mode](https://github.com/antonj/scss-mode)
 
