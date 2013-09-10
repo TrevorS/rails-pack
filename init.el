@@ -1,5 +1,6 @@
 ;; rails-pack init file
 
+(live-load-config-file "autopair-conf.el")
 (live-load-config-file "rbenv-conf.el")
 (live-load-config-file "ruby-end-conf.el")
 (live-load-config-file "rinari-conf.el")

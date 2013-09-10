@@ -22,3 +22,6 @@
 [submodule "lib/rbenv"]
 	path = lib/rbenv
 	url = https://github.com/senny/rbenv.el.git
+[submodule "lib/autopair"]
+	path = lib/autopair
+	url = https://github.com/capitaomorte/autopair.git
