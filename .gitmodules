@@ -19,3 +19,6 @@
 [submodule "lib/web-mode"]
 	path = lib/web-mode
 	url = git@github.com:fxbois/web-mode.git
+[submodule "lib/rbenv"]
+	path = lib/rbenv
+	url = git@github.com:senny/rbenv.el.git
