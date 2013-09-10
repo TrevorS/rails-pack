@@ -1,24 +1,24 @@
 [submodule "rails-pack/lib/rinari"]
 	path = lib/rinari
-	url = git://github.com/eschulte/rinari.git
+	url = https://github.com/eschulte/rinari.git
 [submodule "rails-pack/lib/scss-mode"]
 	path = lib/scss-mode
-	url = git://github.com/antonj/scss-mode.git
+	url = https://github.com/antonj/scss-mode.git
 [submodule "rails-pack/lib/less-mode"]
 	path = lib/less-mode
-	url = git://github.com/purcell/less-css-mode.git
+	url = https://github.com/purcell/less-css-mode.git
 [submodule "rails-pack/lib/haml-mode"]
 	path = lib/haml-mode
-	url = git://github.com/nex3/haml-mode.git
+	url = https://github.com/nex3/haml-mode.git
 [submodule "rails-pack/lib/coffee-mode"]
 	path = lib/coffee-mode
-	url = git://github.com/defunkt/coffee-mode.git
+	url = https://github.com/defunkt/coffee-mode.git
 [submodule "lib/ruby-end"]
 	path = lib/ruby-end
-	url = git@github.com:rejeep/ruby-end.git
+	url = https://github.com/rejeep/ruby-end.git
 [submodule "lib/web-mode"]
 	path = lib/web-mode
-	url = git@github.com:fxbois/web-mode.git
+	url = https://github.com/fxbois/web-mode.git
 [submodule "lib/rbenv"]
 	path = lib/rbenv
-	url = git@github.com:senny/rbenv.el.git
+	url = https://github.com/senny/rbenv.el.git
